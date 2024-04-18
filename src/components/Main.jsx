@@ -4,10 +4,8 @@ import { TypeAnimation } from "react-type-animation";
 import {
   FaEnvelope,
   FaFacebook,
-  FaGit,
   FaGithub,
   FaLinkedin,
-  FaTwitter,
 } from "react-icons/fa";
 
 export default function Main() {
