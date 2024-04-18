@@ -1,8 +1,8 @@
 import { defineConfig } from "vite";
-import babel from "@vitejs/plugin-babel";
+import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
   base: "/MyPortfolio-Uploaded/",
-  plugins: [babel()],
+  plugins: [react()],
 });
